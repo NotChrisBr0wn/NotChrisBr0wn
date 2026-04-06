@@ -4,7 +4,7 @@ I'm Daniel, a Systems and Engineering student based in Portugal.
 
 I create and design new things that i believe can help people.
 
-If an idea pops in my head and I can do I try to create it, if something is a bit out of my league, I try to learn how to make it.
+I enjoy tackling projects that push my limits, turning 'out of my league' concepts into my next skill set.
 
 I am focused in 4 career paths:
 - Web development (Front-end or Full-Stack)
