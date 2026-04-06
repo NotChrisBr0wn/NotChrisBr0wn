@@ -2,18 +2,18 @@
 
 I'm Daniel, a Systems and Engineering student based in Portugal.
 
-I create and design new things that i belive can help people.
+I create and design new things that i believe can help people.
 
 If an idea pops in my head and I can do I try to create it, if something is a bit out of my league, I try to learn how to make it.
 
-My interest in it diverses in 4 areas:
+I am focused in 4 career paths:
 - Web development (Front-end or Full-Stack)
-- CiberSecurity
+- CyberSecurity
 - DevOps Engineer
 - Software Engineer
 
-My dream career path was always Front-end development and I belive that AI could never have the human touch for design altough it's current capabilities of making a great landing page.
-But to prepare for this i have been increasing my profficiency with python while still developing my web developer skills.
+My dream career path was always Front-end development and I believe that AI could never have the human touch for design altough it's current capabilities of making a great landing page.
+But to prepare for this i have been increasing my profficiency with Python while still developing my web developer skills.
 
 
 ## These are some of my skills
